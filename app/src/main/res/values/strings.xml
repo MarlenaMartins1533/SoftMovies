@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoftMovies</string>
+    <string name="hello_blank_fragment">Vazio!Adicione itens…</string>
+    <string name="home">Home</string>
+    <string name="action">Ação</string>
+    <string name="fantasy">Fantasia</string>
+    <string name="fiction">Ficção</string>
+    <string name="drama">Drama</string>
+    <string name="movies">Filmes</string>
+    <string name="user">Usuário</string>
+
+</resources>
