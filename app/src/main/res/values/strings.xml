@@ -8,5 +8,7 @@
     <string name="drama">Drama</string>
     <string name="movies">Filmes</string>
     <string name="user">Usuário</string>
+    <string name="options">Options</string>
+    <string name="about">About</string>
 
 </resources>

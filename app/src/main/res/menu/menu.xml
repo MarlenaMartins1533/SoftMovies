@@ -4,17 +4,21 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/navigation_movies"
-            android:icon="@drawable/ic_video_library_black_24dp"
-            android:title="@string/movies" />
-        <item
-            android:id="@+id/navigation_user"
-            android:icon="@drawable/ic_movie_filter_black_24dp"
-            android:title="@string/user" />
-        <item
-            android:id="@+id/navigation_about"
-            android:icon="@drawable/ic_info_black_24dp"
-            android:title="@string/user" />
+        <item android:title="@string/options">
+        <menu>
+            <item
+                android:id="@+id/navigation_movies"
+                android:icon="@drawable/ic_video_library_black_24dp"
+                android:title="@string/movies" />
+            <item
+                android:id="@+id/navigation_user"
+                android:icon="@drawable/ic_movie_filter_black_24dp"
+                android:title="@string/user" />
+            <item
+                android:id="@+id/navigation_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="@string/about" />
+        </menu>
+        </item>
     </group>
 </menu>
